@@ -1,0 +1,7 @@
+Q1- Respota: 91
+Q3- Resposta: a) 2 b) 128 c) 49 d) 121 e) 13 f)24
+Q4- Resposta: a) Nesse caso, quando os dois veículos se cruzarem na rodovia, estarão exatamente no meio do caminho entre as duas cidades, ou seja, a 50 km de cada uma. Portanto, ambos estarão igualmente próximos da cidade de Ribeirão Preto.
+b)Nesse caso, o caminhão levará 5 minutos a mais para passar em cada um dos pedágios, o que significa que terá uma velocidade média menor que a do carro ao longo do percurso. Portanto, quando os dois veículos se cruzarem na rodovia, o carro estará mais próximo da cidade de Ribeirão Preto. Isso ocorre porque ele conseguirá manter sua velocidade constante, enquanto o caminhão terá que reduzir sua velocidade para passar pelos pedágios.
+c) Usando a formula da distância 
+distância = velocidade x tempo
+Seja d a distância total entre Ribeirão Preto e Franca, e t o tempo que os veículos levam para se encontrarem. Como eles estão se aproximando um do outro, podemos dizer que as distâncias percorridas por eles somam d:
